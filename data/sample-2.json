@@ -1,0 +1,49 @@
+{
+    "19UUA8F7XCA001495": {
+        "autodetails": {
+            "CarFaxOwners": 2,
+            "Certified": null,
+            "exterior": {
+                "BodyStyle": "Sedan",
+                "Color": "Graphite Luster Metallic",
+                "Doors": 4,
+                "Make": "Acura",
+                "Model": "TL",
+                "Trim": "ADVANCE AUTO",
+                "Year": 2012
+            },
+            "interior": {
+                "Color": "Ebony w/Perforated Milano Premium Leather Seat Tri"
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": null,
+                    "Enabled": false
+                },
+                "DealerStockNum": "22550",
+                "ID": {
+                    "Auto": 32194221,
+                    "Dealer": 579
+                },
+                "Price": {
+                    "Internet": 20000,
+                    "Invoice": null,
+                    "MSRP": null,
+                    "Price": 22000
+                },
+                "Type": "U"
+            },
+            "OptionalEquipment": null,
+            "specs": {
+                "DriveLine": "FWD",
+                "Engine": "3.5L V6",
+                "Mileage": 69750,
+                "MPG": {
+                    "City": 20,
+                    "Highway": 29
+                },
+                "Transmission": "Automatic 6-Speed"
+            }
+        }
+    }
+}

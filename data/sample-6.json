@@ -1,0 +1,47 @@
+"1FMCU0J97FUB60789": {
+        "autodetails": {
+            "CarFaxOwners": 1,
+            "Certified": "O",
+            "exterior": {
+                "BodyStyle": "SUV",
+                "Color": "White Platinum Metallic Tri-Coat",
+                "Doors": 4,
+                "Make": "Ford",
+                "Model": "Escape",
+                "Trim": "Titanium",
+                "Year": 2015
+            },
+            "interior": {
+                "Color": "Medium Light Stone"
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": 18279,
+                    "Enabled": true
+                },
+                "DealerStockNum": "GBB03962A",
+                "ID": {
+                    "Auto": 32789243,
+                    "Dealer": 3994
+                },
+                "Price": {
+                    "Internet": 25998,
+                    "Invoice": null,
+                    "MSRP": null,
+                    "Price": null
+                },
+                "Type": "C"
+            },
+            "OptionalEquipment": null,
+            "specs": {
+                "DriveLine": "FWD",
+                "Engine": "2.0L 4 cyls",
+                "Mileage": 11196,
+                "MPG": {
+                    "City": 22,
+                    "Highway": 30
+                },
+                "Transmission": "Automatic 6-Speed"
+            }
+        }
+    }

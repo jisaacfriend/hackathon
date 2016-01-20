@@ -1,0 +1,49 @@
+{
+    "1FADP5CU6FL109195": {
+        "autodetails": {
+            "CarFaxOwners": null,
+            "Certified": null,
+            "exterior": {
+                "BodyStyle": "Hatchback",
+                "Color": "White",
+                "Doors": 4,
+                "Make": "Ford",
+                "Model": "C-Max Energi",
+                "Trim": "SEL",
+                "Year": 2015
+            },
+            "interior": {
+                "Color": "Charcoal Black"
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": 18279,
+                    "Enabled": true
+                },
+                "DealerStockNum": "C50199",
+                "ID": {
+                    "Auto": 26484429,
+                    "Dealer": 3994
+                },
+                "Price": {
+                    "Internet": 31080,
+                    "Invoice": 30385,
+                    "MSRP": 32720,
+                    "Price": 32720
+                },
+                "Type": "N"
+            },
+            "OptionalEquipment": null,
+            "specs": {
+                "DriveLine": "FWD",
+                "Engine": "2.0L 4 cyls, Hybrid",
+                "Mileage": 2,
+                "MPG": {
+                    "City": 40,
+                    "Highway": 36
+                },
+                "Transmission": "CVT (Continuously Variable)"
+            }
+        }
+    }
+}

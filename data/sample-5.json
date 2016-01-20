@@ -1,0 +1,49 @@
+{
+    "2FMTK4G81FBC14945": {
+        "autodetails": {
+            "CarFaxOwners": null,
+            "Certified": null,
+            "exterior": {
+                "BodyStyle": "SUV",
+                "Color": "Tuxedo Black Metallic",
+                "Doors": 4,
+                "Make": "Ford",
+                "Model": "Edge",
+                "Trim": "SE",
+                "Year": 2015
+            },
+            "interior": {
+                "Color": ""
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": 18279,
+                    "Enabled": true
+                },
+                "DealerStockNum": "FBC14945",
+                "ID": {
+                    "Auto": 31699339,
+                    "Dealer": 3994
+                },
+                "Price": {
+                    "Internet": 29888,
+                    "Invoice": 28697,
+                    "MSRP": 31110,
+                    "Price": 31110
+                },
+                "Type": "N"
+            },
+            "OptionalEquipment": null,
+            "specs": {
+                "DriveLine": "AWD",
+                "Engine": "3.5L V6",
+                "Mileage": 1,
+                "MPG": {
+                    "City": 17,
+                    "Highway": 25
+                },
+                "Transmission": "Automatic 6-Speed"
+            }
+        }
+    }
+}
