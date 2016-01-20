@@ -1,0 +1,49 @@
+{
+    "1FM5K7D80GGB91909": {
+        "autodetails": {
+            "CarFaxOwners": null,
+            "Certified": null,
+            "exterior": {
+                "BodyStyle": "SUV",
+                "Color": "Caribou",
+                "Doors": 4,
+                "Make": "Ford",
+                "Model": "Explorer",
+                "Trim": "XLT",
+                "Year": 2016
+            },
+            "interior": {
+                "Color": "Medium Light"
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": 11681,
+                    "Enabled": true
+                },
+                "DealerStockNum": "T16171",
+                "ID": {
+                    "Auto": 32820940,
+                    "Dealer": 3281
+                },
+                "Price": {
+                    "Internet": 40805,
+                    "Invoice": null,
+                    "MSRP": 41605,
+                    "Price": 41605
+                },
+                "Type": "N"
+            },
+            "OptionalEquipment": "Includes Driver Connect Package (Auto-Dimming Rearview Mirror, Premium Audio System.  Includes (1) smart-charging multimedia USB port in front center console (replaces the front center console powerpoint port).  Note: Sync services receives a complimentary (1) year prepaid subscription and 20 operator assist sessions), Remote Start, Dual-Zone Electronic Automatic Temperature Ctrl, Forward Sensing System, Comfort Package (Leather-Trimmed Heated Bucket Seats), 3.5L Ti-VCT V6 (FFV), 6-Speed SelectShift Automatic, 3.39 Non-Limited-Slip Axle Ratio, 6, 160 lbs, P245/60R18 AS BSW, 18\" Painted Aluminum",
+            "specs": {
+                "DriveLine": "FWD",
+                "Engine": "3.5L V6",
+                "Mileage": 2,
+                "MPG": {
+                    "City": null,
+                    "Highway": null
+                },
+                "Transmission": "Automatic 6-Speed"
+            }
+        }
+    }
+}

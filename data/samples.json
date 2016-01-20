@@ -1,0 +1,286 @@
+{
+    "data": [{
+        "ZAM57XSA2G1167749": {
+            "autodetails": {
+                "CarFaxOwners": null,
+                "Certified": null,
+                "exterior": {
+                    "BodyStyle": "Sedan",
+                    "Color": "Nero",
+                    "Doors": 4,
+                    "Make": "Maserati",
+                    "Model": "Ghibli",
+                    "Trim": "",
+                    "Year": 2016
+                },
+                "interior": {
+                    "Color": "Nero w/Poltrona Frau Leather Seat Trim or Drilled"
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": null,
+                        "Enabled": false
+                    },
+                    "DealerStockNum": "G1167749",
+                    "ID": {
+                        "Auto": 31476171,
+                        "Dealer": 10598
+                    },
+                    "Price": {
+                        "Internet": 69900,
+                        "Invoice": 66304,
+                        "MSRP": 72800,
+                        "Price": 72800
+                    },
+                    "Type": "N"
+                },
+                "OptionalEquipment": "Includes dashboard and door armrests in leather",
+                "specs": {
+                    "DriveLine": "RWD",
+                    "Engine": "3.0L V6",
+                    "Mileage": 1,
+                    "MPG": {
+                        "City": 17,
+                        "Highway": 24
+                    },
+                    "Transmission": "Automatic 8-Speed"
+                }
+            }
+        },
+        "19UUA8F7XCA001495": {
+            "autodetails": {
+                "CarFaxOwners": 2,
+                "Certified": null,
+                "exterior": {
+                    "BodyStyle": "Sedan",
+                    "Color": "Graphite Luster Metallic",
+                    "Doors": 4,
+                    "Make": "Acura",
+                    "Model": "TL",
+                    "Trim": "ADVANCE AUTO",
+                    "Year": 2012
+                },
+                "interior": {
+                    "Color": "Ebony w/Perforated Milano Premium Leather Seat Tri"
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": null,
+                        "Enabled": false
+                    },
+                    "DealerStockNum": "22550",
+                    "ID": {
+                        "Auto": 32194221,
+                        "Dealer": 579
+                    },
+                    "Price": {
+                        "Internet": 20000,
+                        "Invoice": null,
+                        "MSRP": null,
+                        "Price": 22000
+                    },
+                    "Type": "U"
+                },
+                "OptionalEquipment": null,
+                "specs": {
+                    "DriveLine": "FWD",
+                    "Engine": "3.5L V6",
+                    "Mileage": 69750,
+                    "MPG": {
+                        "City": 20,
+                        "Highway": 29
+                    },
+                    "Transmission": "Automatic 6-Speed"
+                }
+            }
+        },
+        "1FM5K7D80GGB91909": {
+            "autodetails": {
+                "CarFaxOwners": null,
+                "Certified": null,
+                "exterior": {
+                    "BodyStyle": "SUV",
+                    "Color": "Caribou",
+                    "Doors": 4,
+                    "Make": "Ford",
+                    "Model": "Explorer",
+                    "Trim": "XLT",
+                    "Year": 2016
+                },
+                "interior": {
+                    "Color": "Medium Light"
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": 11681,
+                        "Enabled": true
+                    },
+                    "DealerStockNum": "T16171",
+                    "ID": {
+                        "Auto": 32820940,
+                        "Dealer": 3281
+                    },
+                    "Price": {
+                        "Internet": 40805,
+                        "Invoice": null,
+                        "MSRP": 41605,
+                        "Price": 41605
+                    },
+                    "Type": "N"
+                },
+                "OptionalEquipment": "Includes Driver Connect Package (Auto-Dimming Rearview Mirror, Premium Audio System.  Includes (1) smart-charging multimedia USB port in front center console (replaces the front center console powerpoint port).  Note: Sync services receives a complimentary (1) year prepaid subscription and 20 operator assist sessions), Remote Start, Dual-Zone Electronic Automatic Temperature Ctrl, Forward Sensing System, Comfort Package (Leather-Trimmed Heated Bucket Seats), 3.5L Ti-VCT V6 (FFV), 6-Speed SelectShift Automatic, 3.39 Non-Limited-Slip Axle Ratio, 6, 160 lbs, P245/60R18 AS BSW, 18\" Painted Aluminum",
+                "specs": {
+                    "DriveLine": "FWD",
+                    "Engine": "3.5L V6",
+                    "Mileage": 2,
+                    "MPG": {
+                        "City": null,
+                        "Highway": null
+                    },
+                    "Transmission": "Automatic 6-Speed"
+                }
+            }
+        },
+        "1FADP5CU6FL109195": {
+            "autodetails": {
+                "CarFaxOwners": null,
+                "Certified": null,
+                "exterior": {
+                    "BodyStyle": "Hatchback",
+                    "Color": "White",
+                    "Doors": 4,
+                    "Make": "Ford",
+                    "Model": "C-Max Energi",
+                    "Trim": "SEL",
+                    "Year": 2015
+                },
+                "interior": {
+                    "Color": "Charcoal Black"
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": 18279,
+                        "Enabled": true
+                    },
+                    "DealerStockNum": "C50199",
+                    "ID": {
+                        "Auto": 26484429,
+                        "Dealer": 3994
+                    },
+                    "Price": {
+                        "Internet": 31080,
+                        "Invoice": 30385,
+                        "MSRP": 32720,
+                        "Price": 32720
+                    },
+                    "Type": "N"
+                },
+                "OptionalEquipment": null,
+                "specs": {
+                    "DriveLine": "FWD",
+                    "Engine": "2.0L 4 cyls, Hybrid",
+                    "Mileage": 2,
+                    "MPG": {
+                        "City": 40,
+                        "Highway": 36
+                    },
+                    "Transmission": "CVT (Continuously Variable)"
+                }
+            }
+        },
+        "2FMTK4G81FBC14945": {
+            "autodetails": {
+                "CarFaxOwners": null,
+                "Certified": null,
+                "exterior": {
+                    "BodyStyle": "SUV",
+                    "Color": "Tuxedo Black Metallic",
+                    "Doors": 4,
+                    "Make": "Ford",
+                    "Model": "Edge",
+                    "Trim": "SE",
+                    "Year": 2015
+                },
+                "interior": {
+                    "Color": ""
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": 18279,
+                        "Enabled": true
+                    },
+                    "DealerStockNum": "FBC14945",
+                    "ID": {
+                        "Auto": 31699339,
+                        "Dealer": 3994
+                    },
+                    "Price": {
+                        "Internet": 29888,
+                        "Invoice": 28697,
+                        "MSRP": 31110,
+                        "Price": 31110
+                    },
+                    "Type": "N"
+                },
+                "OptionalEquipment": null,
+                "specs": {
+                    "DriveLine": "AWD",
+                    "Engine": "3.5L V6",
+                    "Mileage": 1,
+                    "MPG": {
+                        "City": 17,
+                        "Highway": 25
+                    },
+                    "Transmission": "Automatic 6-Speed"
+                }
+            }
+        },
+        "1FMCU0J97FUB60789": {
+            "autodetails": {
+                "CarFaxOwners": 1,
+                "Certified": "O",
+                "exterior": {
+                    "BodyStyle": "SUV",
+                    "Color": "White Platinum Metallic Tri-Coat",
+                    "Doors": 4,
+                    "Make": "Ford",
+                    "Model": "Escape",
+                    "Trim": "Titanium",
+                    "Year": 2015
+                },
+                "interior": {
+                    "Color": "Medium Light Stone"
+                },
+                "inventory": {
+                    "AIS": {
+                        "DealerID": 18279,
+                        "Enabled": true
+                    },
+                    "DealerStockNum": "GBB03962A",
+                    "ID": {
+                        "Auto": 32789243,
+                        "Dealer": 3994
+                    },
+                    "Price": {
+                        "Internet": 25998,
+                        "Invoice": null,
+                        "MSRP": null,
+                        "Price": null
+                    },
+                    "Type": "C"
+                },
+                "OptionalEquipment": null,
+                "specs": {
+                    "DriveLine": "FWD",
+                    "Engine": "2.0L 4 cyls",
+                    "Mileage": 11196,
+                    "MPG": {
+                        "City": 22,
+                        "Highway": 30
+                    },
+                    "Transmission": "Automatic 6-Speed"
+                }
+            }
+        }
+    }]
+}
