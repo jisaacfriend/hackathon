@@ -1,0 +1,49 @@
+{
+    "ZAM57XSA2G1167749": {
+        "autodetails": {
+            "CarFaxOwners": null,
+            "Certified": null,
+            "exterior": {
+                "BodyStyle": "Sedan",
+                "Color": "Nero",
+                "Doors": 4,
+                "Make": "Maserati",
+                "Model": "Ghibli",
+                "Trim": "",
+                "Year": 2016
+            },
+            "interior": {
+                "Color": "Nero w/Poltrona Frau Leather Seat Trim or Drilled"
+            },
+            "inventory": {
+                "AIS": {
+                    "DealerID": null,
+                    "Enabled": false
+                },
+                "DealerStockNum": "G1167749",
+                "ID": {
+                    "Auto": 31476171,
+                    "Dealer": 10598
+                },
+                "Price": {
+                    "Internet": 69900,
+                    "Invoice": 66304,
+                    "MSRP": 72800,
+                    "Price": 72800
+                },
+                "Type": "N"
+            },
+            "OptionalEquipment": "Includes dashboard and door armrests in leather",
+            "specs": {
+                "DriveLine": "RWD",
+                "Engine": "3.0L V6",
+                "Mileage": 1,
+                "MPG": {
+                    "City": 17,
+                    "Highway": 24
+                },
+                "Transmission": "Automatic 8-Speed"
+            }
+        }
+    }
+}
