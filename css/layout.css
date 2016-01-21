@@ -1,15 +1,7 @@
-html,
-body {
-	height: 100%;
-}
-
 html {
 	color: #fff;
 	font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
-}
-
-body {
 	background: #2a2a2a url(../images/doge-bg.png) no-repeat right center fixed;
 	background-size: cover;
 }

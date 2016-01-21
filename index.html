@@ -18,15 +18,17 @@
 				<img src="images/doge-logo.png">
 			</div>
 			<div class="vd-input l-lg-col-1-1">
-				<input class="c-input" type="text" name="vin" placeholder="VIN Number">
+				<input class="c-input" type="text" name="vin" placeholder="VIN Number" ng-model="vin">
 			</div>
 			<div class="vd-input l-lg-col-1-1">
-				<input class="c-button c-input--button" type="button" value="Submit">
+				<input class="c-button c-input--button" type="button" value="Submit" ng-click="showData()">
 			</div>
 		</div>
 		<div class="l-row">
 			<div class="l-lg-col-1-1">
-				Output data here
+				<tr>
+					<td>{{ vinVehicles }}</td>
+				</tr>
 			</div>
 		</div>
 	</div>
