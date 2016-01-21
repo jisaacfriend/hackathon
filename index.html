@@ -8,6 +8,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<script src="https://code.angularjs.org/1.4.8/angular.js"></script>
 	<script src="/app/app.js"></script>
+	<link href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMeNL/6ZWh7/atDv/2rQ7/+WYh//x40v/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAx40v/2TG5v9cu9f/W7rX/1u51v9syN//bMjf/2zI3/8aj73/x40v/wAAAAAAAAAAAAAAAAAAAAAAAAAAyI0v/2PG5v9jxub/L5i9/0uuzf9butf/W7nW/1u61v9sx9//bMff/xqQvv/Ahy3/AAAAAAAAAAAAAAAAx44w///LRf9RxPL/Y8Xm/zumzv8xmrz/LZe6/1u51v9butf/W7rX/2zI3/8nmMT//9NT/8eNL/8AAAAAAAAAAO6xPf/xu0D/SsL2/1i93/921PT/ddP0/3XU9f+A0O3/ccbi/xiLu/8ooMv/JZzI//THSv/vsz3/AAAAAMeOMP//wEP//81G/9fdrf9z0e3/PZ3A/2TE4/9wxuL/e83q/3bJ5f8Yi7v/GY28/ymeyf//z0r//sBC/8eOMP+SYyD/8LI9//PBQv+k6fX/AwgK/zJjcv8/osj/b8Xi/3DF4f9+z+z/cMbi/yadyf8poM3/879B/++wPf+jcSX/+bY///W3P///0En/o+j0/wAAA/8rV2f/bbrO/3TI3v90x97/c8ff/3DG4v8Yirv//+B8///IRP/0tD7/7649//i1P//0tj///81G/6Hq+v93zu//X77h/1C43/86j6j/O6nQ/3TI3v9xxuL/KJ7J///WY///xkT/9LQ+/++vPf+TYx//77E9//G5P//41m7/tuz1/wAEB/8bf6r/T7DR/ymdyf86q9T/NqfS/xmRxv/0xUf/8LM+/++vPf+mdSX/x40v//6/Qv/+w0P/9MRD/0y65/9iyuz/OrDa/z+t1/8uo9H/HJXJ/wQiPP8Le6P/88BB//7AQ//+v0L/x40v/wAAAADvrz3/77A9///GRP/0x1H/Amma/0K23v8cnNH/HZ3S/w5vpP8RT3j/EmqX///LRf/vsT3/7689/wAAAAAAAAAAx40v//6/Qv/vsD3//8hE///VTf8GdKz//9RZ///PSv/0yln/KpS9/9vKYv/wuT///8BD/8eNL/8AAAAAAAAAAAAAAADNkzL//r9C//C0Pv//x0T/8ro///3CQ///wkP/8LU+///KRf/wuT///8FD/8yUMv8AAAAAAAAAAAAAAAAAAAAAAAAAAMeNL//usT3//sBC/++xPf/wsz3/+bpB/+6xPf/+wEL/77A9/8eNL/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMeOMP6UZB//9LI+//SzPv+YZyH/x44w/gAAAAAAAAAAAAAAAAAAAAAAAAAA+B8AAOAHAADAAwAAgAEAAIABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAgAEAAMADAADgBwAA+B8AAA==" rel="icon" type="image/x-icon" />
 
 </head>
 <body>
@@ -26,9 +27,7 @@
 		</div>
 		<div class="l-row">
 			<div class="l-lg-col-1-1">
-				<tr>
-					<td>{{ vinVehicles }}</td>
-				</tr>
+				<pre>{{ vinVehicles | json}}</pre>
 			</div>
 		</div>
 	</div>

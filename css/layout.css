@@ -17,6 +17,12 @@ html {
 	max-width: 100%;
 }
 
+pre {
+	width: 100%;
+	max-width: 500px;
+	white-space: pre-wrap;
+}
+
 
 /* #Inputs
 ================================================== */
