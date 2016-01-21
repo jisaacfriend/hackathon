@@ -17,7 +17,7 @@
 				})
 				.error( function() {
                 	$scope.vinVehicles = "No VIN by that number. Such Fail!";
-                )};
+                });
 		};
 
 	}]);
