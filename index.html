@@ -1,16 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="hackathon">
 <head>
 <title>VINDOGE</title>
 
 	<link rel="stylesheet" type="text/css" href="css/thorsponsive.css">
 	<link rel="stylesheet" type="text/css" href="css/layout.css">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<script src="https://code.angularjs.org/1.4.8/angular.js"></script>
+	<script src="/app/app.js"></script>
 
 </head>
 <body>
 
-	<div class="l-wrapper">
+	<div class="l-wrapper" ng-controller="submitVin">
 		<div class="l-row">
 			<div class="vd-logo l-lg-col-1-1">
 				<img src="images/doge-logo.png">
