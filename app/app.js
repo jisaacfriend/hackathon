@@ -5,10 +5,11 @@
 	app.controller('submitVin', ['$scope','$http', function($scope, $http) {
 
 		console.log("in our controller");
+		$scope.vin = "";
 
 		$scope.showData = function() {
 			console.log("it ran");
-			$scope.vinVehicles = ""
+			$scope.vinVehicles = "";
 			var url = "/api/vehicles/"+$scope.vin;
 
 			$http.get(url).success( function(response) {
