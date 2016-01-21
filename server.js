@@ -1,6 +1,5 @@
 var express = require('express'),
-	path = require('path'),
-	vehicles = require('./routes/vehicles');
+	path = require('path');
 
 var app = express();
 
