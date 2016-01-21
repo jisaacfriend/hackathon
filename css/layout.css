@@ -1,0 +1,94 @@
+html,
+body {
+	height: 100%;
+}
+
+html {
+	color: #fff;
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	background: #2a2a2a url(../images/doge-bg.png) no-repeat right center fixed;
+	background-size: cover;
+}
+
+.l-wrapper {
+	margin: 0 auto;
+	max-width: 500px;
+}
+
+.vd-logo img {
+	margin: 10% auto;
+	display: block;
+	max-width: 100%;
+}
+
+
+/* #Inputs
+================================================== */
+.c-input {
+  border: 0;
+  color: #fff;
+  border-bottom: 2px solid #308ECB;
+  font: inherit;
+  font-size: 2rem;
+  outline: 0 none;
+  padding: 5px;
+  line-height: 1;
+  text-align: center;
+  width: 100%;
+  background: transparent; }
+
+.c-input--button {
+    line-height: 2;
+    padding: 6px; }
+
+.c-input:focus {
+    border-bottom-color: #f1825f; }
+
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #777; }
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #777;
+  opacity: 1; }
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #777;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #777; }
+
+/* #Buttons
+================================================== */
+.c-button {
+  font: inherit;
+  cursor: pointer;
+  padding: .5em 1.5em;
+  margin: 20px auto 0;
+  width: 50%;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  background: #308ECB;
+  color: #fff;
+  font-size: 2rem; }
+
+@media screen and (max-width: 600px) {
+	.c-button,
+	.c-input {
+		font-size: 1.5rem;
+	}
+
+	.c-button {
+		width: 100%;
+	}
+}
